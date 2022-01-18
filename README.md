@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Social Media App built with <a href="https://nodejs.org/en/" target="_blank">ReactJS & Sanity</a>.</h4>
+<h4 align="center">Social Media App built with <a href="#" target="_blank">ReactJS & Sanity</a>.</h4>
 
 
 ## Deployed Version
